@@ -1,4 +1,4 @@
-# jesse-strategy-merger
+# Jesse Strategy Merger
 This script is used to merge multiple strategies into a single strategy. You can merge 
 
 1) This script will take the strategies names as input.
