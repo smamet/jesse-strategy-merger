@@ -14,6 +14,9 @@ This script is used to merge multiple strategies into a single strategy. You can
 
 6) Save the new merged strategy to strategies/MainStrategy[Y-m-d]/__init__.py
 
+# Demo
+[![View video demo](https://img.youtube.com/vi/acAhmqRGwTM/0.jpg)](https://youtu.be/acAhmqRGwTM)
+
 # Usage
 ```
 # You can add as much strategies as you want, you are not limited to 2
